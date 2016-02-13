@@ -10,7 +10,7 @@ Unfortunately built-in netcat not functioning properly and closed connection whe
 for this reason I include full netcat inside SCRIPTS folder<br /><br />
 
 You can send via tcp connection any command accepted by .ash script eg.:<br />
-t pwm 1 enable + LF CHAR
+t pwm 1 enable + LF
 <br />
 This is another and alternative method for sending commands to commands_from_app.ash<br />
 instead sending the entire commands_from_app.ash file via ftp<br />
