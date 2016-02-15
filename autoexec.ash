@@ -13,7 +13,6 @@ lu_util exec 'nohup /tmp/fuse_d/SCRIPTS/cmd_get.sh &'
 t pwm 1 enable
 sleep 1
 t pwm 1 disable
-sleep 1
 ###########################################
 # loop for external commands
 while true
