@@ -15,3 +15,5 @@ t pwm 1 enable (+ LF)
 This is another and alternative method for sending commands to commands_from_app.ash<br />
 instead sending the entire commands_from_app.ash file via ftp<br />
 and can be used with arduino/esp8266 etc
+
+[paypal.me/reaper7md](https://www.paypal.me/reaper7md)
